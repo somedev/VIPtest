@@ -1,2 +1,2 @@
 # VIPtest
-Playground for VIP (Clean Swift) iOS architecture
+Playground for VIP (View->Interactor->Presenter) iOS architecture
